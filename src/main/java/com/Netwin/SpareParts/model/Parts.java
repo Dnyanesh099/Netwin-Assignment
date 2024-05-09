@@ -29,6 +29,7 @@ public class Parts {
 	public Parts() {
 		// Default constructor
 	}
+	
 
 	public Parts(Model model, Category category, String partTitle, double partPrice) {
 		this.model = model;
